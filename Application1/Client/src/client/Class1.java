@@ -5,6 +5,8 @@ public class Class1
     int h;
     int h2;    
     int h3;    
+    int h4;    
+    int h5;        
     
     public Class1() 
     {
