@@ -7,6 +7,7 @@ public class Class1
     int h3;    
     int h4;    
     int h5;        
+    int h6;        
     
     public Class1() 
     {
