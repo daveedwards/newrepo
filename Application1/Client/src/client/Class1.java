@@ -8,7 +8,8 @@ public class Class1
     int h4;    
     int h5;        
     int h6;        
-    
+    int h7;        
+        
     public Class1() 
     {
         super();
