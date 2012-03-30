@@ -66,6 +66,9 @@
       </list>
       <value n="webIANAEncoding" v="US-ASCII"/>
    </hash>
+   <hash n="oracle.jdeveloper.javadoc.JProjectJavadoc">
+      <value n="generateSince" v="false"/>
+   </hash>
    <hash n="oracle.jdevimpl.config.JProjectPaths">
       <url n="outputDirectory" path="classes/"/>
    </hash>
