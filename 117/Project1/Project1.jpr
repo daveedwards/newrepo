@@ -77,6 +77,10 @@
       </list>
       <value n="webIANAEncoding" v="US-ASCII"/>
    </hash>
+   <hash n="oracle.jdeveloper.javadoc.JProjectJavadoc">
+      <value n="generateAuthor" v="true"/>
+      <value n="generateSince" v="false"/>
+   </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
       <value n="j2eeWebAppName" v="App117-Project1-webapp"/>
       <value n="j2eeWebContextRoot" v="App117-Project1-context-root"/>
