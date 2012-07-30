@@ -79,6 +79,7 @@
    </hash>
    <hash n="oracle.jdeveloper.javadoc.JProjectJavadoc">
       <value n="generateAuthor" v="true"/>
+      <value n="generateDeprecated" v="false"/>
       <value n="generateSince" v="false"/>
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
