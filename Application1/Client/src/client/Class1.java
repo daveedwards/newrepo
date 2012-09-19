@@ -11,6 +11,7 @@ public class Class1
     int h7;        
     int h8;   
     int h9;
+    int h10;
     
     public Class1() 
     {
