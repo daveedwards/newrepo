@@ -13,6 +13,7 @@ public class Class1
     int h9;
     int h10;
     int h11;
+    int noproxy;
     
     public Class1() 
     {
