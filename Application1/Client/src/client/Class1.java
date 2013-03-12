@@ -14,6 +14,7 @@ public class Class1
     int h10;
     int h11;
     int noproxy;
+    String proxy;
     
     public Class1() 
     {
