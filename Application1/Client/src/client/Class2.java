@@ -4,7 +4,7 @@ public class Class2
 {
     int noproxy;
     int anothernoproxy;
-    String proxy;
+    String noproxy2;
     
   public Class2()
   {
