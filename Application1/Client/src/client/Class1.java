@@ -17,6 +17,7 @@ public class Class1
     int proxy2;
     String noproxy2;
     int h12;
+    int hg;
     
     public Class1() 
     {
