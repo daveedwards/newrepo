@@ -21,6 +21,7 @@ public class Class1
     String st;
     String st2;
     String st3;    
+    String st4;    
     
     public Class1() 
     {
