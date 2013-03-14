@@ -23,6 +23,7 @@ public class Class1
     String st3;    
     String st4;    
     String st5;       
+    String st6;   
     
     public Class1() 
     {
