@@ -28,6 +28,7 @@ public class Class1
     String st8;       
     String st9;     
     String st10;         
+    String st11;    
     
     public Class1() 
     {
