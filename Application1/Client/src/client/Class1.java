@@ -12,6 +12,14 @@ public class Class1
     int h8;   
     int h9;
     int h10;
+
+    public void setH2(int h2) {
+        this.h2 = h2;
+    }
+
+    public int getH2() {
+        return h2;
+    }
     int h11;
     int noproxy;
     int proxy2;
