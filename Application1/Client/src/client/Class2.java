@@ -12,6 +12,7 @@ public class Class2
     String s5;    
     String s6;    
     String s7;    
+    String s8;    
     
   public Class2()
   {
