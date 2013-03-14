@@ -24,7 +24,15 @@ public class Class1
     String st4;    
     String st5;       
     String st6;   
-    String st7;   
+    String st7;
+
+    public void setH(int h) {
+        this.h = h;
+    }
+
+    public int getH() {
+        return h;
+    }
     String st8;       
     String st9;     
     String st10;         
