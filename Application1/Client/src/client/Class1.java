@@ -18,6 +18,7 @@ public class Class1
     String noproxy2;
     int h12;
     int hg;
+    String st;
     
     public Class1() 
     {
