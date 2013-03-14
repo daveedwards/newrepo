@@ -13,6 +13,7 @@ public class Class2
     String s6;    
     String s7;    
     String s8;    
+    String s9;    
     
   public Class2()
   {
