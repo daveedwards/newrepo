@@ -11,6 +11,7 @@ public class Class2
     String s4;       
     String s5;    
     String s6;    
+    String s7;    
     
   public Class2()
   {
