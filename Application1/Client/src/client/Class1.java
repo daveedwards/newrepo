@@ -19,6 +19,7 @@ public class Class1
     int h12;
     int hg;
     String st;
+    String st2;
     
     public Class1() 
     {
