@@ -20,6 +20,7 @@ public class Class1
     int hg;
     String st;
     String st2;
+    String st3;    
     
     public Class1() 
     {
