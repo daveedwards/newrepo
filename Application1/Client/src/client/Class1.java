@@ -4,7 +4,15 @@ public class Class1
 {
     int h;
     int h2;    
-    int h3;    
+    int h3;
+
+    public void setH3(int h3) {
+        this.h3 = h3;
+    }
+
+    public int getH3() {
+        return h3;
+    }
     int h4;    
     int h5;        
     int h6;        
