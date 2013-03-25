@@ -5,6 +5,7 @@ public class Class1
 {
   private String s;
   private int h;
+  private int f;
 
   public Class1()
   {
