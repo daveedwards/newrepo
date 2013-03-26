@@ -3,7 +3,7 @@ package project1;
 public class Class1
   implements Interface1
 {
-  private String sZ;
+  private String sA;
   private int h;
   private int f;
   private int s1;
