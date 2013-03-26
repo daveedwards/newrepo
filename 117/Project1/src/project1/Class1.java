@@ -11,6 +11,7 @@ public class Class1
   private int ttl2;
   private int ttgAB;
 
+
   public void setS1(int s1)
   {
     this.s1 = s1;
