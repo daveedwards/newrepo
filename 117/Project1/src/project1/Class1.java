@@ -7,6 +7,16 @@ public class Class1
   private int h;
   private int f;
 
+  public void setF(int f)
+  {
+    this.f = f;
+  }
+
+  public int getF()
+  {
+    return f;
+  }
+
   public Class1()
   {
     super();
