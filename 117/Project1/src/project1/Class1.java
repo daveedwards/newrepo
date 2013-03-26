@@ -8,7 +8,17 @@ public class Class1
   private int f;
   private int s1;
   private int hi;
-  
+
+  public void setS1(int s1)
+  {
+    this.s1 = s1;
+  }
+
+  public int getS1()
+  {
+    return s1;
+  }
+
   public void setHi(int hi)
   {
     this.hi = hi;
