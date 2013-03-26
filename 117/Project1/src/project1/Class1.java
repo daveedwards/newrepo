@@ -7,7 +7,8 @@ public class Class1
   private int h;
   private int f;
   private int s1;
-
+  private int hi;
+  
   public void setHi(int hi)
   {
     this.hi = hi;
@@ -17,7 +18,6 @@ public class Class1
   {
     return hi;
   }
-  private int hi;
 
   public void setF(int f)
   {
