@@ -3,13 +3,13 @@ package project1;
 public class Class1
   implements Interface1
 {
-  private String sABA;
+  private String sABAA;
   private int h;
   private int f;
   private int s1;
   private int hi;
   private int ttl2;
-  private int ttgABA;
+  private int ttgABAA;
 
 
   public void setS1(int s1)
