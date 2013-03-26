@@ -6,6 +6,16 @@ public class Class1
   private String s;
   private int h;
   private int f;
+
+  public void setHi(int hi)
+  {
+    this.hi = hi;
+  }
+
+  public int getHi()
+  {
+    return hi;
+  }
   private int hi;
 
   public void setF(int f)
