@@ -6,6 +6,7 @@ public class Class1
   private String s;
   private int h;
   private int f;
+  private int s1;
 
   public void setHi(int hi)
   {
