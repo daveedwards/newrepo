@@ -8,7 +8,7 @@ public class Class1
   private int f;
   private int s1;
   private int hi;
-  private int ttl;
+  private int ttlA;
 
   public void setS1(int s1)
   {
