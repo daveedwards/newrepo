@@ -10,6 +10,7 @@ public class Class1
   private int hi;
   private int ttl2;
   private int ttgABBBBA;
+  private String home;
 
 
   public void setS1(int s1)
