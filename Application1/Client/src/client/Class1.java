@@ -5,6 +5,7 @@ public class Class1
     int h;
     int h2;    
     int h3;
+    int hg2;
 
     public void setH3(int h3) {
         this.h3 = h3;
