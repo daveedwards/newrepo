@@ -12,6 +12,7 @@ public class Class1
     int jim;
     int spock;
     int james;
+    int kirk;
     
     public void setH3(int h3) {
         this.h3 = h3;
