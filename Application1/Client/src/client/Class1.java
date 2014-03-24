@@ -7,7 +7,8 @@ public class Class1
     int h3;
     int hg2;
     int hg;
-
+    int windows;
+    
     public void setH3(int h3) {
         this.h3 = h3;
     }
