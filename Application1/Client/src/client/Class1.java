@@ -10,6 +10,7 @@ public class Class1
     int windows;
     int fred;
     int jim;
+    int spock;
     
     public void setH3(int h3) {
         this.h3 = h3;
