@@ -9,6 +9,7 @@ public class Class1
     int hg;
     int windows;
     int fred;
+    int jim;
     
     public void setH3(int h3) {
         this.h3 = h3;
